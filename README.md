@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<a href="https://github.com/neonyazilim"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=2FCF00&background=000000&multiline=true&random=false&width=700&height=140&separator=%3C&lines=neonyazilim%3Cneonyazilim%3Cneonyazilim" alt="neonyazilim" /></a>
 <!--
 **neonyazilim/neonyazilim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
